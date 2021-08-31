@@ -1,0 +1,125 @@
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\appsettings.json
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\CRUD_Marcas.Api.exe
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\CRUD_Marcas.Api.deps.json
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\CRUD_Marcas.Api.runtimeconfig.json
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\CRUD_Marcas.Api.runtimeconfig.dev.json
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\CRUD_Marcas.Api.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\ref\CRUD_Marcas.Api.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\CRUD_Marcas.Api.pdb
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.csprojAssemblyReference.cache
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.AssemblyInfoInputs.cache
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.AssemblyInfo.cs
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.csproj.CoreCompileInputs.cache
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\staticwebassets\CRUD_Marcas.Api.StaticWebAssets.Manifest.cache
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\staticwebassets\CRUD_Marcas.Api.StaticWebAssets.xml
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\scopedcss\bundle\CRUD_Marcas.Api.styles.css
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.RazorTargetAssemblyInfo.cache
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.csproj.CopyComplete
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\ref\CRUD_Marcas.Api.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.pdb
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.genruntimeconfig.cache
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Humanizer.dll
+C:\Users\a.lemos\source\repos\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\appsettings.json
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\CRUD_Marcas.Api.exe
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\CRUD_Marcas.Api.deps.json
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\CRUD_Marcas.Api.runtimeconfig.json
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\CRUD_Marcas.Api.runtimeconfig.dev.json
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\CRUD_Marcas.Api.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\ref\CRUD_Marcas.Api.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\CRUD_Marcas.Api.pdb
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Humanizer.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.csprojAssemblyReference.cache
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.AssemblyInfoInputs.cache
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.AssemblyInfo.cs
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.csproj.CoreCompileInputs.cache
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\staticwebassets\CRUD_Marcas.Api.StaticWebAssets.Manifest.cache
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\staticwebassets\CRUD_Marcas.Api.StaticWebAssets.xml
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\scopedcss\bundle\CRUD_Marcas.Api.styles.css
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.RazorTargetAssemblyInfo.cache
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.csproj.CopyComplete
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\ref\CRUD_Marcas.Api.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.pdb
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\obj\Debug\net5.0\CRUD_Marcas.Api.genruntimeconfig.cache
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\ASP NET Core MVC + API\CRUD_CARROS\CRUD_CARROS\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll

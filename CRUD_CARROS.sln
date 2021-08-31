@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD_Marcas.Api", "CRUD_CARROS\CRUD_Marcas.Api.csproj", "{9EDB3EAB-C8CF-42DA-82C8-45CF17D84702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD_Carros.WebMvc", "CRUD_Carros.WebMvc\CRUD_Carros.WebMvc.csproj", "{EFFB5E66-582F-4C1B-9A19-906B03BD816B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EDB3EAB-C8CF-42DA-82C8-45CF17D84702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EDB3EAB-C8CF-42DA-82C8-45CF17D84702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EDB3EAB-C8CF-42DA-82C8-45CF17D84702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EDB3EAB-C8CF-42DA-82C8-45CF17D84702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFFB5E66-582F-4C1B-9A19-906B03BD816B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFFB5E66-582F-4C1B-9A19-906B03BD816B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFFB5E66-582F-4C1B-9A19-906B03BD816B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFFB5E66-582F-4C1B-9A19-906B03BD816B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7260DD91-9501-4ACD-8EA7-9D5E836E481F}
+	EndGlobalSection
+EndGlobal
