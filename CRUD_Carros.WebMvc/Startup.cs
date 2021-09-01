@@ -1,6 +1,8 @@
+using CRUD_Carros.WebMvc.Persistence;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -24,6 +26,7 @@ namespace CRUD_Carros.WebMvc
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddDbContext<Context>(options => options.UseSqlServer("Integrated Security = SSPI; Persist Security Info = False; User ID = BRINGIT\\a.lemos; Initial Catalog = CRUD_CARROS_MVC; Data Source = PROXYS0159\\SQLEXPRESS"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -50,7 +53,7 @@ namespace CRUD_Carros.WebMvc
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Car}/{action=Index}/{id?}");
             });
         }
     }
